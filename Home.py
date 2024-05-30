@@ -3,7 +3,7 @@ import pandas
 
 st.set_page_config(layout="wide")
 
-st.title("The Best Company")
+st.title("Bizning Korhona")
 comment = """
 Finding a best company to work for seems an elusive task for disillusioned young and older employees alike.
 Any employer worth its salt has recognized and responded to the shifting demands of the workforce in order to 
